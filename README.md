@@ -1,0 +1,3 @@
+program akan melewati spawoner executer yang merupakan aisnnkronus. nah tapi tidak diprint, atau dihold karena executer belum dipnggil, lalu hey hey dieksekusi atau dicectak, setelah itu baru howdy tercetak karena spawner dieksekusi dengan eksekutor. lalu tadi kan ada timer 2 detik sebagai blcoking operation jadi tunggu dia selesai lalu print. lalu dropitu fungsinya ngomogn kalau task list nya udah habis
+
+![hasil spawner](resources/image.jpg)
